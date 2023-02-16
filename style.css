@@ -7,3 +7,10 @@
     color: #FFD23F;
     font-family: sans-serif;
 }
+
+@media only screen and (max-width: 425px) {
+   main{
+    max-width: 420px;
+    padding-inline: 20px;
+   }
+  }
